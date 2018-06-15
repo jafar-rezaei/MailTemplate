@@ -1,0 +1,17 @@
+#zoom_content h2
+{
+	color: #000000;
+	font-size: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-bottom: 15px;
+	margin-top: 0px;
+}
+
+#zoom_content h3
+{
+	color: #3B5998;
+	font-size: 16px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-bottom: 5px;
+	margin-top: 0px;
+}
